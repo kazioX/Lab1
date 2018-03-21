@@ -1,0 +1,24 @@
+mk dir lab1
+cd lab1
+git init
+git status
+git add .
+git commit -m "Initial commit"
+*dodadena nasoka vo fajlot l1.txt
+git add .
+git commit -m "modify l1.txt"
+git remote add origin https://github.com/kazioX/Lab1.git
+git push -u origin master
+*napravena promena
+git reset --soft HEAD^
+git branch logging 
+git checkout logging
+*kreiran fajl log.txt
+git add .
+git commit -m "Kreiran log.txt"
+git push -u origin logging
+git checkout master
+git merge logging
+git push -u origin master
+git branch allcomands
+
