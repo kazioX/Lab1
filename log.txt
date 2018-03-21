@@ -1,0 +1,12 @@
+ git log
+commit f7c1ec305a6917f32027d5e9e93c8bbabc1587fe (HEAD -> master)
+Author: unknown <todor.dimov@students.finki.ukim.mk>
+Date:   Wed Mar 21 18:57:29 2018 +0100
+
+    modify l1.txt
+
+commit 75096ccb0278154bbd3ef0cb99a01b5b1970b6bf
+Author: unknown <todor.dimov@students.finki.ukim.mk>
+Date:   Wed Mar 21 18:32:14 2018 +0100
+
+    Initial commit
